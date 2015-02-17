@@ -1,0 +1,6 @@
+{
+  "name": "generator-gmx-widget",
+  "dependencies": {
+    "yeoman-generator": "^0.18.9"
+  }
+}
